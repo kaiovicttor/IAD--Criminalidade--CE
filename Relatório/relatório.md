@@ -3,7 +3,7 @@
 **Disciplina:** Introdução à Análise de Dados  
 **Tema:** Criminalidade no Ceará — SSPDS-CE  
 **Data de entrega:** 04 de junho de 2026  
-**Integrantes:** Flávio, Paulo Henrique, Kaio Vitor, Henrique Gabriel
+**Integrantes:** Flávio, Paulo Henrique, Kaio Victor, Henrique Gabriel
 
 ---
 
